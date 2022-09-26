@@ -1,4 +1,5 @@
-Hi, I'm Gositi. I kinda just got started with Github, so for a while I'm just going to try learning it and put my projects out on it.
-I have mostly programmed in Python but I am learning C since a couple of months.
+Hi! I'm Gositi.
 
-I don't really know what else to write here so this will do for now.
+I recently started using GitHub so I'm quite a beginner right now. However I am quickly learning as I am migrating my projects to it! Also I am making things hard by starting with GitHub CLI (and git locally for that matter) from the beginning, but I think it will pay out later on.
+
+I have mostly used Python earlier and many of my projects use it, but I have also started a bit on C and kind of knows how to use it. Right now I don't have any planned projects that are suited for it though, so Python will likely see a lot of usage for now.
