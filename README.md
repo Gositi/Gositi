@@ -1,10 +1,16 @@
 # Hi! I'm Gositi.
 
-I am not very experienced with GitHub, but I have been trying to place as many of my projects as possible on it. I have mostly used Python earlier and many of my projects use it, but I have also started a bit on C and kind of knows how to use it. Right now I don't have very many planned projects that are suited for it though, so Python will likely see a lot of usage still.
+Welcome to my GitHub. I usually program in Python or C, and I have been trying to move over to C as much as possible.
+Some of my projects combine them both, with the C program doing the most work while using Python for simpler scripting tasks (loading configs in a way that the C program easily can digest, for example).
+Most of my repos are private, because I don't want to show my ugly code. 
+Really the only reason my mandelbrot renderer is public is because someone requested to see it.
+Perhaps I should make more of them public?
+First I gotta fill in the README of my mandelbrot renderer though...
 
-The kinds of projects that I have made is pretty diverse. Here is a short list of examples that are currently on my mind (keep in mind that most of my repos are private):
-* A mandelbrot renderer
-* A 3D rendering enginge
-* A very simple stack-based programming language
-
-I don't really know what more to say and I can't see why anyone would be interested in a Swedish teenagers programming projects either, so goodbye and have a nice day!
+The kinds of projects that I have made is pretty diverse.
+Here is a short list of examples that are currently on my mind (keep in mind that most of my repos are private):
+- A mandelbrot renderer
+- A (WIP) artificial neural network
+  - For some reason _two_ other (somewhat failed) attempts at creating ANN systems, although not on GitHub.
+- A basic 3D rendering enginge
+- A very simple stack-based programming language
