@@ -9,8 +9,7 @@ First I gotta fill in the README of my mandelbrot renderer though...
 
 The kinds of projects that I have made is pretty diverse.
 Here is a short list of examples that are currently on my mind (keep in mind that most of my repos are private):
+- Discord-fs, allowing you to use Discord as "cloud storage"
 - A mandelbrot renderer
-- A (WIP) artificial neural network
-  - For some reason _two_ other (somewhat failed) attempts at creating ANN systems, although not on GitHub.
 - A basic 3D rendering enginge
 - A very simple stack-based programming language
