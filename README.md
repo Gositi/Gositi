@@ -1,15 +1,18 @@
 # Hi! I'm Gositi.
 
-Welcome to my GitHub. I usually program in Python or C, and I have been trying to move over to C as much as possible.
-Some of my projects combine them both, with the C program doing the most work while using Python for simpler scripting tasks (loading configs in a way that the C program easily can digest, for example).
-Most of my repos are private, because I don't want to show my ugly code. 
-Really the only reason my mandelbrot renderer is public is because someone requested to see it.
-Perhaps I should make more of them public?
-First I gotta fill in the README of my mandelbrot renderer though...
+Welcome to my GitHub.
+I usually program in Python and C, but I have also dabbled a bit in assembly programming.
+The kinds of projects that I have made is pretty diverse, although most of my repos are private.
+Below is two examples of projects that I am (currently) extra proud of.
 
-The kinds of projects that I have made is pretty diverse.
-Here is a short list of examples that are currently on my mind (keep in mind that most of my repos are private):
-- Discord-fs, allowing you to use Discord as "cloud storage"
-- A mandelbrot renderer
-- A basic 3D rendering enginge
-- A very simple stack-based programming language
+## minesweeper-os
+This is intended to be a bootable minesweeper game, but so far it is just a snake game.
+Currently a bootloader written in assembly with some useful I/O functions is written, as well as a proof-of-concept snake game in assembly.
+The snake game was both made for fun, but also to showcase the bootloaders functions for randomness and I/O.
+The actual minesweeper game is planned to be written by adapting existing C code, but this work is not completed yet.
+
+## discord-fs
+This is a project allowing you to use Discord as "cloud storage".
+It mounts a virtual Linux filesystem, that uses message file attachments on Discord to store data.
+It integrates pretty well with the filesystem, but the up- and downloads are of course quite slow.
+Also there is no support for directories.
