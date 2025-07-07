@@ -3,6 +3,7 @@
 Welcome to my GitHub.
 I usually program in Python and C, but I have also dabbled a bit in assembly programming.
 The kinds of projects that I have made is pretty diverse, although most of my repos are private.
+Anything I do is just for fun, I make whatever I feel like at the moment!
 Below is two examples of projects that I am (currently) extra proud of.
 
 ## minesweeper-os
